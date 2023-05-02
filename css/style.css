@@ -1,3 +1,5 @@
+/*parte dell'header*/
+
 #logo{
     width: 150px;
     margin-top: 10px;
@@ -41,7 +43,7 @@
     width: 430px;
 }
 
-/* ------------------------------------------------------------------------------ */
+/* parte del main*/
 
 #paragrafo-principale{
     width: 1080px;
@@ -55,3 +57,46 @@
     width: 1080px;
     padding-left: 10px;
 }
+
+.subject{
+    display: inline-block;
+    width: 39%;
+}
+
+.contenitore{
+    width: 1080px;
+   
+  }
+  
+  .row{
+    background-color: lightblue;
+   
+  }
+  
+  .row2{
+    background-color: white;
+    
+  }
+
+  .subject{
+    display: inline-block;
+    width: 33%;
+    height: 50px;
+  }
+
+  .body{
+    display: inline-block;
+    width:33%;
+  }
+
+  .description{
+    display: inline-block;
+    width: 33%;
+  }
+
+  #intestazione-tabella{
+    color: white;
+    background-color: blue;
+    height: 20px;
+    
+  }
