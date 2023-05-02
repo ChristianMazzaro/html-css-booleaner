@@ -1,0 +1,14 @@
+#logo{
+    width: 12%;
+    margin-top: 1.7%;
+   
+}
+
+#intestazione{
+     background-image: url("../img/pattern.png");
+     background-repeat: repeat-x;
+     background-color: lightskyblue;
+     background-size: 20%;
+     width: 100%;
+     height: 108px;
+}
